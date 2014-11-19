@@ -1,4 +1,4 @@
-package uk.me.ex1;
+package org.activemq6messaging.examples.ex1;
 
 import javax.swing.*;
 import java.awt.*;
